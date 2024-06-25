@@ -44,6 +44,9 @@ Execute o script app.py para converter um arquivo DBF para CSV:
 python app.py
 ```
 
+### Observação importante
+É importante que o arquivo .dbf esteja na mesma pasta que o script script app.py
+
 Você será solicitado a fornecer as seguintes informações:
 
 - Nome do arquivo DBF (por exemplo, ARQUIVO.dbf)
