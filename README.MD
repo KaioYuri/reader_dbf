@@ -46,7 +46,7 @@ python app.py
 
 Você será solicitado a fornecer as seguintes informações:
 
--Nome do arquivo DBF (por exemplo, ARQUIVO.dbf)
--Tipo de encoding (por exemplo, latin1, cp1252, utf-8, etc.)
--Nome do arquivo de saída (por exemplo, NOME_SAIDA.csv)
--Quantas linhas você quer exportar (digite "todas" para exportar todas as linhas)
+- Nome do arquivo DBF (por exemplo, ARQUIVO.dbf)
+- Tipo de encoding (por exemplo, latin1, cp1252, utf-8, etc.)
+- Nome do arquivo de saída (por exemplo, NOME_SAIDA.csv)
+- Quantas linhas você quer exportar (digite "todas" para exportar todas as linhas)
